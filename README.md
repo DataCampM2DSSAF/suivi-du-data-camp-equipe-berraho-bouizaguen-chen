@@ -1,2 +1,2 @@
-# suivi-du-data-camp-equipe-berraho-bouizaguen-chen
-suivi-du-data-camp-equipe-berraho-bouizaguen-chen created by GitHub Classroom
+# Data-Camp M2DS: IEEE-CIS Fraud Detection
+##Equipe Berraho, Bouizaguen et Chen
